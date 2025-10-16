@@ -7,3 +7,5 @@ def countDigit(n):
     return count
 
 print(countDigit(7877))
+#tc o(log n)
+#sc o(1)
